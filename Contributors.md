@@ -4,6 +4,7 @@
 - [Ashish Rao](https://github.com/ashishra0)
 - Shweta
 - Saraansh
+- J-Ske 
 - comso1
 - [Vamsi Gandra](https://github.com/VamsiGandra)
 - [Sean Lee] (https://github.com/seankarltonlee)
